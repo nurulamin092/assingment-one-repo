@@ -9,6 +9,9 @@
     h1{
         font-size: 50px;
     }
+    section h1{
+        text-align: center;
+    }
     .font-color{
         color: orange;
     }
@@ -32,3 +35,21 @@
        border-image:linear-gradient(Brown,salmon)1;
         
     }
+
+    .my-mission-container{
+        border-radius: 10px;
+        
+        box-shadow: 10px 10px 40px gray;
+
+    }
+    .footer-section{
+        background-color: black;
+        color: white;
+        text-align: center;
+        
+    }
+    
+
+
+
+  
