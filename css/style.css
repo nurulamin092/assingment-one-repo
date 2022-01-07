@@ -20,7 +20,9 @@
         margin: 5%;
     }
     .half-width img{
+
         width:80%;
+
     }
     .anchore-button{
         text-decoration: none;
@@ -32,7 +34,9 @@
     }
     #stay-fource{
        border-left: 5px solid;
-       border-image:linear-gradient(Brown,salmon)1;
+       border-image:linear-gradient(Brown,salmon);
+       border-image-slice: 1;
+       border-radius: 10px;
         
     }
 
