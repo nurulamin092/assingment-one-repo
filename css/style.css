@@ -27,7 +27,7 @@
     .anchore-button{
         text-decoration: none;
         color: white;
-        background-image: linear-gradient(orange,salmon);
+        background-image: linear-gradient(tomato,salmon);
         padding: 10px 20px;
         border-radius: 5px;
 
@@ -37,6 +37,7 @@
        border-image:linear-gradient(Brown,salmon);
        border-image-slice: 1;
        border-radius: 10px;
+
         
     }
 
